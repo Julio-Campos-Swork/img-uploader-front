@@ -78,7 +78,7 @@ $ git clone https://github.com/Julio-Campos-Swork/img-uploader-front
 $ npm install
 
 # Run the app
-$ npm start
+$ npm run dev
 ```
 
 ## Acknowledgements
