@@ -65,7 +65,8 @@
 <script setup>
 import { ref } from "vue"
 import axios from "axios"
-const BASE_URL = "http://192.168.0.120/imgUploader/public/"
+//change this URL if you want local
+const BASE_URL = "https://desarrollogaren.000webhostapp.com/imgUploader/public/"
 const isUploading = ref(false)
 const imgUploaded = ref(false)
 const imgLink = ref("")
